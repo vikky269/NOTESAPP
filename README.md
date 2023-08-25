@@ -1,0 +1,13 @@
+# React + Vite
+# NOTESAPP
+For this app I did not fully write code , we just implemented some functionality like the browser storage, the delete functionality, and also updating a note to be at the top of the notes list whenever it is updated.
+
+special thanks to bob ziroll for this incredible tutorial on react
+leaarning resource: freecodecamp
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
